@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - A c program that prints to standard error
+ * main - Entry point
  * Return: Always 1 (Success)
  */
 int main(void)
